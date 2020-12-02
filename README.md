@@ -10,4 +10,4 @@ Here are some ideas to get you started:
   data-size="large">
   @ShreyMakwana1</a>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Developer2204)](https://github.com/Mr-Developer2204/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Developer2204&theme=dark&show_icons=true)
