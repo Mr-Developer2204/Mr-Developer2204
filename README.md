@@ -11,3 +11,5 @@ Here are some ideas to get you started:
   @ShreyMakwana1</a>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Developer2204&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Developer2204)](https://github.com/Mr-Developer2204/github-readme-stats)
