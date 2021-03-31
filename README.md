@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning React
 - 📫 How to reach me: Twitter -
 <a class="twitter-mention-button"
   href="https://twitter.com/ShreyMakwana1"
