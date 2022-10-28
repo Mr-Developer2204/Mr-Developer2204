@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
-<h3 align="center">Interning @Motorola Soltuions, working with Angular | Pormethues | CouchDB.</h3>
+<h3 align="center">Interning CIE@Motorola Soltuions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-developer2204&label=Profile%20views&color=0e75b6&style=flat" alt="mr-developer2204" /> </p>
 
