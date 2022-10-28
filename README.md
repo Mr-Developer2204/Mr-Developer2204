@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shreymakwana1" target="blank"><img src="https://img.shields.io/twitter/follow/shreymakwana1?logo=twitter&style=for-the-badge" alt="shreymakwana1" /></a> </p>
 
-- 🔭 I’m currently working on [Handle my Admissions](https://github.com/admission-portal/admission-p)
+- 🔭 I’m currently working on Azure Cost Management.
 
-- Currently trying to get good at **AWS, JavaScript.**
+- 💻 Mostly working with Python, Spark, K8s, Azure.
 
-- 💬 Ask me about **react, aws, python.**
+- 💬 Ask me about ** react, spark, azure, aws, python.**
 
 - 📫 How to reach me **workwithshrey24x7@gmail.com**
 
