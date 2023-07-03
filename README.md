@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
-<h3 align="center">Interning CIE@Motorola Soltuions.</h3>
+<h3 align="center">Software Engineer @ Motorola Soltuions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-developer2204&label=Profile%20views&color=0e75b6&style=flat" alt="mr-developer2204" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreymakwana1" target="blank"><img src="https://img.shields.io/twitter/follow/shreymakwana1?logo=twitter&style=for-the-badge" alt="shreymakwana1" /></a> </p>
 
-- 🔭 I’m currently working on Azure Cost Management.
+- 🔭 Working with the Observability Team.
 
-- 💻 Mostly working with Python, Spark, K8s, Azure.
-
-- 💬 Ask me about ** react, spark, azure, aws, python.**
+- 💻 Mostly working with Python, Spark, K8s, Azure, ELK Stack.
 
 - 📫 How to reach me **workwithshrey24x7@gmail.com**
 
