@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
-<h3 align="center">Software Engineer @ Motorola Soltuions.</h3>
+<h3 align="center">Software Engineer I @ Motorola Soltuions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-developer2204&label=Profile%20views&color=0e75b6&style=flat" alt="mr-developer2204" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreymakwana1" target="blank"><img src="https://img.shields.io/twitter/follow/shreymakwana1?logo=twitter&style=for-the-badge" alt="shreymakwana1" /></a> </p>
 
-- 🔭 Working with the Observability Team.
+- 🔭 From the Cloud Observability Team.
 
-- 💻 Mostly working with Python, Spark, K8s, Azure, ELK Stack.
+- 💻 Mostly working with Prometheus, Grafana, Python, K8s, Cloud, ELK Stack.
 
 - 📫 How to reach me **workwithshrey24x7@gmail.com**
 
