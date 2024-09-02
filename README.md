@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreymakwana1" target="blank"><img src="https://img.shields.io/twitter/follow/shreymakwana1?logo=twitter&style=for-the-badge" alt="shreymakwana1" /></a> </p>
 
-- 🔭 From the Cloud Observability Team.
+- 🔭 Working in Cloud Platform Engineering - Observability Team.
 
 - 💻 Mostly working with Prometheus, Grafana, Python, K8s, Cloud, ELK Stack.
 
