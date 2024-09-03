@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Shrey:
 💻 I’m currently working with the Cloud Observability Platform Team @MotorolSolutions<br>📚 My stack : Prometheus, Grafana, Python, Javascript, Azure, AWS, GCP. <br>
 
 
